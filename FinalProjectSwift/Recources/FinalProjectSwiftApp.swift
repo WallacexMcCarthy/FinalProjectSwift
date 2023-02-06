@@ -14,7 +14,8 @@ struct FinalProjectSwiftApp: App
     {
         WindowGroup
         {
-            AniminationView()
+//            AniminationView()
+            New_Game_View()
         }
     }
 }
