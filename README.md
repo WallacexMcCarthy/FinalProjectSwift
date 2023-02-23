@@ -1,26 +1,6 @@
 Word Play Documentation
 _____________________________________________________________________________________________
 
-
-
-
-Table of Contents                                                                    Page        #                 
-    1 - Welcome Screen                                                                                     2
-    2 - Home Screen                                                                                             3
-    3- Four Letter Game →Easy                                                                            4
-    4 - Five Letter Game → Medium                                                                    5
-    5 - Six Letter Game → Hard                                                                                     6
-    6 - Error Handling                                                                                      7
-    7 - Winning Message                                                                                             8
-    8 - Losing Message                                                                                             9
-    9 - Future Plans                                                                                                    10
-   10  - Source Code                                                                                            11
-
-
-
-
-
-
 High School Utah Entrepreneurship Challenge
 
 
@@ -106,14 +86,6 @@ While developing this app, we encountered numerous problems, such as the program
 
 
 
-
-
-10.  Source Code
-Here we have included a few snippets of our code in order to show the basics of our system and more of the product’s foundational blocks. 
-  
-
-  
-  
   
 
 _____________________________________________________________________________________________
